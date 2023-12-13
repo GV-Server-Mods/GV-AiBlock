@@ -30,7 +30,7 @@
 				<SubtypeId>OffensiveCombatBlock</SubtypeId>
 			</Id>
 			<MaxMaximalDistance>7000</MaxMaximalDistance>
-			<MaxMaximalDistance>6999</MaxMaximalDistance>
+			<MaxMinimalDistance>6999</MaxMinimalDistance>
 			<AngleAllowedToShoot>2</AngleAllowedToShoot>
 			<UniqueSelectionId>1</UniqueSelectionId>
 		</EntityComponent>
